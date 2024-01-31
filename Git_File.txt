@@ -1,3 +1,8 @@
 This is the first line for testing purpose.
+<<<<<<< HEAD
 This is the second line.
 
+=======
+This is the second line for testing purpose.
+This is the third line for testing purpose.
+>>>>>>> d614e0b0b5f744e56477e5c92a1b421946762126
